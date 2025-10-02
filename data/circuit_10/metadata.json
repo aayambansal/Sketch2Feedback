@@ -1,0 +1,7895 @@
+[
+  {
+    "scenario": "simple_series",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "simple_series_00.png"
+  },
+  {
+    "scenario": "simple_series",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "simple_series_01.png"
+  },
+  {
+    "scenario": "simple_series",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "simple_series_02.png"
+  },
+  {
+    "scenario": "simple_series",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "simple_series_03.png"
+  },
+  {
+    "scenario": "simple_series",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "simple_series_04.png"
+  },
+  {
+    "scenario": "simple_series",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "simple_series_05.png"
+  },
+  {
+    "scenario": "simple_series",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "simple_series_06.png"
+  },
+  {
+    "scenario": "simple_series",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "simple_series_07.png"
+  },
+  {
+    "scenario": "simple_series",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "simple_series_08.png"
+  },
+  {
+    "scenario": "simple_series",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "simple_series_09.png"
+  },
+  {
+    "scenario": "simple_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 200,
+        "y": 400,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 350,
+        "y": 450,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 500,
+        "y": 400,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          185,
+          385,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          335,
+          435,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          485,
+          385,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "simple_parallel_00.png"
+  },
+  {
+    "scenario": "simple_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 200,
+        "y": 400,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 350,
+        "y": 450,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 350,
+        "y": 350,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 500,
+        "y": 400,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          185,
+          385,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          335,
+          435,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          335,
+          335,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          485,
+          385,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "simple_parallel_01.png"
+  },
+  {
+    "scenario": "simple_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 200,
+        "y": 400,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 350,
+        "y": 450,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 500,
+        "y": 400,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          185,
+          385,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          335,
+          435,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          485,
+          385,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "simple_parallel_02.png"
+  },
+  {
+    "scenario": "simple_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 200,
+        "y": 400,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 350,
+        "y": 450,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 500,
+        "y": 400,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          185,
+          385,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          335,
+          435,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          485,
+          385,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "simple_parallel_03.png"
+  },
+  {
+    "scenario": "simple_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 200,
+        "y": 400,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 350,
+        "y": 450,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 500,
+        "y": 400,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          185,
+          385,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          335,
+          435,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          485,
+          385,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component",
+      "wrong_polarity"
+    ],
+    "image_path": "simple_parallel_04.png"
+  },
+  {
+    "scenario": "simple_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 200,
+        "y": 400,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 350,
+        "y": 450,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 500,
+        "y": 400,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          185,
+          385,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          335,
+          435,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          485,
+          385,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "simple_parallel_05.png"
+  },
+  {
+    "scenario": "simple_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 200,
+        "y": 400,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 350,
+        "y": 450,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 350,
+        "y": 350,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          185,
+          385,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          335,
+          435,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          335,
+          335,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "simple_parallel_06.png"
+  },
+  {
+    "scenario": "simple_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 200,
+        "y": 400,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 350,
+        "y": 450,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 350,
+        "y": 350,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          185,
+          385,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          335,
+          435,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          335,
+          335,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "simple_parallel_07.png"
+  },
+  {
+    "scenario": "simple_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 200,
+        "y": 400,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 350,
+        "y": 450,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 500,
+        "y": 400,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          185,
+          385,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          335,
+          435,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          485,
+          385,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component",
+      "wrong_polarity"
+    ],
+    "image_path": "simple_parallel_08.png"
+  },
+  {
+    "scenario": "simple_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 200,
+        "y": 400,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 350,
+        "y": 450,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 500,
+        "y": 400,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          185,
+          385,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          335,
+          435,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          485,
+          385,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "simple_parallel_09.png"
+  },
+  {
+    "scenario": "series_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "series_parallel_00.png"
+  },
+  {
+    "scenario": "series_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component",
+      "wrong_polarity"
+    ],
+    "image_path": "series_parallel_01.png"
+  },
+  {
+    "scenario": "series_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "series_parallel_02.png"
+  },
+  {
+    "scenario": "series_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "series_parallel_03.png"
+  },
+  {
+    "scenario": "series_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "series_parallel_04.png"
+  },
+  {
+    "scenario": "series_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "series_parallel_05.png"
+  },
+  {
+    "scenario": "series_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "series_parallel_06.png"
+  },
+  {
+    "scenario": "series_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "series_parallel_07.png"
+  },
+  {
+    "scenario": "series_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "series_parallel_08.png"
+  },
+  {
+    "scenario": "series_parallel",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "series_parallel_09.png"
+  },
+  {
+    "scenario": "diode_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "diode_circuit_00.png"
+  },
+  {
+    "scenario": "diode_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "diode_circuit_01.png"
+  },
+  {
+    "scenario": "diode_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "diode_circuit_02.png"
+  },
+  {
+    "scenario": "diode_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "diode_circuit_03.png"
+  },
+  {
+    "scenario": "diode_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "diode_circuit_04.png"
+  },
+  {
+    "scenario": "diode_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "diode_circuit_05.png"
+  },
+  {
+    "scenario": "diode_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "diode_circuit_06.png"
+  },
+  {
+    "scenario": "diode_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "diode_circuit_07.png"
+  },
+  {
+    "scenario": "diode_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "diode_circuit_08.png"
+  },
+  {
+    "scenario": "diode_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "diode_circuit_09.png"
+  },
+  {
+    "scenario": "battery_resistor",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "battery_resistor_00.png"
+  },
+  {
+    "scenario": "battery_resistor",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "battery_resistor_01.png"
+  },
+  {
+    "scenario": "battery_resistor",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "battery_resistor_02.png"
+  },
+  {
+    "scenario": "battery_resistor",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "battery_resistor_03.png"
+  },
+  {
+    "scenario": "battery_resistor",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "battery_resistor_04.png"
+  },
+  {
+    "scenario": "battery_resistor",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "battery_resistor_05.png"
+  },
+  {
+    "scenario": "battery_resistor",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "battery_resistor_06.png"
+  },
+  {
+    "scenario": "battery_resistor",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "battery_resistor_07.png"
+  },
+  {
+    "scenario": "battery_resistor",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "battery_resistor_08.png"
+  },
+  {
+    "scenario": "battery_resistor",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component",
+      "wrong_polarity"
+    ],
+    "image_path": "battery_resistor_09.png"
+  },
+  {
+    "scenario": "led_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "led_circuit_00.png"
+  },
+  {
+    "scenario": "led_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component",
+      "wrong_polarity"
+    ],
+    "image_path": "led_circuit_01.png"
+  },
+  {
+    "scenario": "led_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "led_circuit_02.png"
+  },
+  {
+    "scenario": "led_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "led_circuit_03.png"
+  },
+  {
+    "scenario": "led_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "led_circuit_04.png"
+  },
+  {
+    "scenario": "led_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "led_circuit_05.png"
+  },
+  {
+    "scenario": "led_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "led_circuit_06.png"
+  },
+  {
+    "scenario": "led_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "led_circuit_07.png"
+  },
+  {
+    "scenario": "led_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "led_circuit_08.png"
+  },
+  {
+    "scenario": "led_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "diode",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "D1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "D1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "led_circuit_09.png"
+  },
+  {
+    "scenario": "voltage_divider",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "voltage_divider_00.png"
+  },
+  {
+    "scenario": "voltage_divider",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "voltage_divider_01.png"
+  },
+  {
+    "scenario": "voltage_divider",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "voltage_divider_02.png"
+  },
+  {
+    "scenario": "voltage_divider",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "voltage_divider_03.png"
+  },
+  {
+    "scenario": "voltage_divider",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "voltage_divider_04.png"
+  },
+  {
+    "scenario": "voltage_divider",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "voltage_divider_05.png"
+  },
+  {
+    "scenario": "voltage_divider",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "voltage_divider_06.png"
+  },
+  {
+    "scenario": "voltage_divider",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "voltage_divider_07.png"
+  },
+  {
+    "scenario": "voltage_divider",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground"
+    ],
+    "image_path": "voltage_divider_08.png"
+  },
+  {
+    "scenario": "voltage_divider",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "voltage_divider_09.png"
+  },
+  {
+    "scenario": "current_source",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "current_source_00.png"
+  },
+  {
+    "scenario": "current_source",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "current_source_01.png"
+  },
+  {
+    "scenario": "current_source",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component",
+      "wrong_polarity"
+    ],
+    "image_path": "current_source_02.png"
+  },
+  {
+    "scenario": "current_source",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "current_source_03.png"
+  },
+  {
+    "scenario": "current_source",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "current_source_04.png"
+  },
+  {
+    "scenario": "current_source",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component",
+      "wrong_polarity"
+    ],
+    "image_path": "current_source_05.png"
+  },
+  {
+    "scenario": "current_source",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "current_source_06.png"
+  },
+  {
+    "scenario": "current_source",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "current_source_07.png"
+  },
+  {
+    "scenario": "current_source",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "current_source_08.png"
+  },
+  {
+    "scenario": "current_source",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component",
+      "wrong_polarity"
+    ],
+    "image_path": "current_source_09.png"
+  },
+  {
+    "scenario": "capacitor_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "capacitor_circuit_00.png"
+  },
+  {
+    "scenario": "capacitor_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "capacitor_circuit_01.png"
+  },
+  {
+    "scenario": "capacitor_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "capacitor_circuit_02.png"
+  },
+  {
+    "scenario": "capacitor_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component",
+      "wrong_polarity"
+    ],
+    "image_path": "capacitor_circuit_03.png"
+  },
+  {
+    "scenario": "capacitor_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "capacitor_circuit_04.png"
+  },
+  {
+    "scenario": "capacitor_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "capacitor_circuit_05.png"
+  },
+  {
+    "scenario": "capacitor_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "capacitor_circuit_06.png"
+  },
+  {
+    "scenario": "capacitor_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "capacitor_circuit_07.png"
+  },
+  {
+    "scenario": "capacitor_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component",
+      "wrong_polarity"
+    ],
+    "image_path": "capacitor_circuit_08.png"
+  },
+  {
+    "scenario": "capacitor_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "capacitor_circuit_09.png"
+  },
+  {
+    "scenario": "grounded_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "grounded_circuit_00.png"
+  },
+  {
+    "scenario": "grounded_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "grounded_circuit_01.png"
+  },
+  {
+    "scenario": "grounded_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "grounded_circuit_02.png"
+  },
+  {
+    "scenario": "grounded_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "grounded_circuit_03.png"
+  },
+  {
+    "scenario": "grounded_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component",
+      "wrong_polarity"
+    ],
+    "image_path": "grounded_circuit_04.png"
+  },
+  {
+    "scenario": "grounded_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "grounded_circuit_05.png"
+  },
+  {
+    "scenario": "grounded_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component"
+    ],
+    "image_path": "grounded_circuit_06.png"
+  },
+  {
+    "scenario": "grounded_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_ground",
+      "wrong_polarity"
+    ],
+    "image_path": "grounded_circuit_07.png"
+  },
+  {
+    "scenario": "grounded_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_component",
+      "wrong_polarity"
+    ],
+    "image_path": "grounded_circuit_08.png"
+  },
+  {
+    "scenario": "grounded_circuit",
+    "components": [
+      {
+        "component_type": "battery",
+        "x": 150,
+        "y": 300,
+        "orientation": 0,
+        "label": "V1",
+        "polarity": "reversed",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "component_type": "resistor",
+        "x": 300,
+        "y": 300,
+        "orientation": 0,
+        "label": "R1",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "resistor",
+        "x": 450,
+        "y": 300,
+        "orientation": 0,
+        "label": "R2",
+        "polarity": null,
+        "error_type": null
+      },
+      {
+        "component_type": "ground",
+        "x": 600,
+        "y": 300,
+        "orientation": 0,
+        "label": "GND",
+        "polarity": null,
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "component",
+        "bbox": [
+          135,
+          285,
+          30,
+          30
+        ],
+        "label": "V1",
+        "error_type": "wrong_polarity"
+      },
+      {
+        "type": "component",
+        "bbox": [
+          285,
+          285,
+          30,
+          30
+        ],
+        "label": "R1",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          435,
+          285,
+          30,
+          30
+        ],
+        "label": "R2",
+        "error_type": null
+      },
+      {
+        "type": "component",
+        "bbox": [
+          585,
+          285,
+          30,
+          30
+        ],
+        "label": "GND",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_polarity"
+    ],
+    "image_path": "grounded_circuit_09.png"
+  }
+]

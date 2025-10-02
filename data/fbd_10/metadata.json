@@ -1,0 +1,5952 @@
+[
+  {
+    "scenario": "block_on_inclined_plane",
+    "forces": [
+      {
+        "x": 250,
+        "y": 265,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 275,
+        "magnitude": 30,
+        "direction": 45,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 230,
+        "y": 275,
+        "magnitude": 20,
+        "direction": 225,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 250,
+        "y": 285,
+        "magnitude": 25,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": "extra_force"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          265,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          220,
+          265,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          275,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": "extra_force"
+      },
+      {
+        "type": "scenario",
+        "bbox": [
+          50,
+          50,
+          100,
+          30
+        ],
+        "label": "Block on Inclined Plane",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "block_on_inclined_plane_00.png"
+  },
+  {
+    "scenario": "block_on_inclined_plane",
+    "forces": [
+      {
+        "x": 250,
+        "y": 265,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "scenario",
+        "bbox": [
+          50,
+          50,
+          100,
+          30
+        ],
+        "label": "Block on Inclined Plane",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "block_on_inclined_plane_01.png"
+  },
+  {
+    "scenario": "block_on_inclined_plane",
+    "forces": [
+      {
+        "x": 250,
+        "y": 265,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 275,
+        "magnitude": 30,
+        "direction": 45,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 230,
+        "y": 275,
+        "magnitude": 20,
+        "direction": 225,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          265,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          220,
+          265,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      },
+      {
+        "type": "scenario",
+        "bbox": [
+          50,
+          50,
+          100,
+          30
+        ],
+        "label": "Block on Inclined Plane",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "block_on_inclined_plane_02.png"
+  },
+  {
+    "scenario": "block_on_inclined_plane",
+    "forces": [
+      {
+        "x": 250,
+        "y": 265,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 275,
+        "magnitude": 30,
+        "direction": 45,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 230,
+        "y": 275,
+        "magnitude": 20,
+        "direction": 225,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 250,
+        "y": 285,
+        "magnitude": 25,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": "extra_force"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          265,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          220,
+          265,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          275,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": "extra_force"
+      },
+      {
+        "type": "scenario",
+        "bbox": [
+          50,
+          50,
+          100,
+          30
+        ],
+        "label": "Block on Inclined Plane",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "block_on_inclined_plane_03.png"
+  },
+  {
+    "scenario": "block_on_inclined_plane",
+    "forces": [
+      {
+        "x": 250,
+        "y": 265,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 275,
+        "magnitude": 30,
+        "direction": 45,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 230,
+        "y": 275,
+        "magnitude": 20,
+        "direction": 225,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 250,
+        "y": 285,
+        "magnitude": 25,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": "extra_force"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          265,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          220,
+          265,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          275,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": "extra_force"
+      },
+      {
+        "type": "scenario",
+        "bbox": [
+          50,
+          50,
+          100,
+          30
+        ],
+        "label": "Block on Inclined Plane",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "block_on_inclined_plane_04.png"
+  },
+  {
+    "scenario": "block_on_inclined_plane",
+    "forces": [
+      {
+        "x": 250,
+        "y": 265,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 275,
+        "magnitude": 30,
+        "direction": 45,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 230,
+        "y": 275,
+        "magnitude": 20,
+        "direction": 225,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 250,
+        "y": 285,
+        "magnitude": 25,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": "extra_force"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          265,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          220,
+          265,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          275,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": "extra_force"
+      },
+      {
+        "type": "scenario",
+        "bbox": [
+          50,
+          50,
+          100,
+          30
+        ],
+        "label": "Block on Inclined Plane",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "block_on_inclined_plane_05.png"
+  },
+  {
+    "scenario": "block_on_inclined_plane",
+    "forces": [
+      {
+        "x": 250,
+        "y": 265,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 275,
+        "magnitude": 30,
+        "direction": 45,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 230,
+        "y": 275,
+        "magnitude": 20,
+        "direction": 225,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 250,
+        "y": 285,
+        "magnitude": 25,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": "extra_force"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          265,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          220,
+          265,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          275,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": "extra_force"
+      },
+      {
+        "type": "scenario",
+        "bbox": [
+          50,
+          50,
+          100,
+          30
+        ],
+        "label": "Block on Inclined Plane",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "block_on_inclined_plane_06.png"
+  },
+  {
+    "scenario": "block_on_inclined_plane",
+    "forces": [
+      {
+        "x": 250,
+        "y": 265,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 275,
+        "magnitude": 30,
+        "direction": 45,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 230,
+        "y": 275,
+        "magnitude": 20,
+        "direction": 225,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 250,
+        "y": 285,
+        "magnitude": 25,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": "extra_force"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          265,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          220,
+          265,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          275,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": "extra_force"
+      },
+      {
+        "type": "scenario",
+        "bbox": [
+          50,
+          50,
+          100,
+          30
+        ],
+        "label": "Block on Inclined Plane",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "block_on_inclined_plane_07.png"
+  },
+  {
+    "scenario": "block_on_inclined_plane",
+    "forces": [
+      {
+        "x": 250,
+        "y": 265,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "scenario",
+        "bbox": [
+          50,
+          50,
+          100,
+          30
+        ],
+        "label": "Block on Inclined Plane",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "block_on_inclined_plane_08.png"
+  },
+  {
+    "scenario": "block_on_inclined_plane",
+    "forces": [
+      {
+        "x": 250,
+        "y": 265,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 275,
+        "magnitude": 30,
+        "direction": 45,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 230,
+        "y": 275,
+        "magnitude": 20,
+        "direction": 225,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 250,
+        "y": 285,
+        "magnitude": 25,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": "extra_force"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          265,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          220,
+          265,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          275,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": "extra_force"
+      },
+      {
+        "type": "scenario",
+        "bbox": [
+          50,
+          50,
+          100,
+          30
+        ],
+        "label": "Block on Inclined Plane",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "block_on_inclined_plane_09.png"
+  },
+  {
+    "scenario": "hanging_mass",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 260,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 320,
+        "y": 280,
+        "magnitude": 30,
+        "direction": 0,
+        "label": "F_wind",
+        "color": "red",
+        "error_type": "extra_force"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          250,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          310,
+          270,
+          20,
+          20
+        ],
+        "label": "F_wind",
+        "error_type": "extra_force"
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "hanging_mass_00.png"
+  },
+  {
+    "scenario": "hanging_mass",
+    "forces": [
+      {
+        "x": 300,
+        "y": 260,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          250,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "hanging_mass_01.png"
+  },
+  {
+    "scenario": "hanging_mass",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 260,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          250,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "hanging_mass_02.png"
+  },
+  {
+    "scenario": "hanging_mass",
+    "forces": [
+      {
+        "x": 300,
+        "y": 260,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          250,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "hanging_mass_03.png"
+  },
+  {
+    "scenario": "hanging_mass",
+    "forces": [
+      {
+        "x": 300,
+        "y": 260,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          250,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "hanging_mass_04.png"
+  },
+  {
+    "scenario": "hanging_mass",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 260,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 320,
+        "y": 280,
+        "magnitude": 30,
+        "direction": 0,
+        "label": "F_wind",
+        "color": "red",
+        "error_type": "extra_force"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          250,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          310,
+          270,
+          20,
+          20
+        ],
+        "label": "F_wind",
+        "error_type": "extra_force"
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "hanging_mass_05.png"
+  },
+  {
+    "scenario": "hanging_mass",
+    "forces": [
+      {
+        "x": 300,
+        "y": 260,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          250,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "hanging_mass_06.png"
+  },
+  {
+    "scenario": "hanging_mass",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 260,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          250,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "hanging_mass_07.png"
+  },
+  {
+    "scenario": "hanging_mass",
+    "forces": [
+      {
+        "x": 300,
+        "y": 260,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          250,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "hanging_mass_08.png"
+  },
+  {
+    "scenario": "hanging_mass",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 260,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          250,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "hanging_mass_09.png"
+  },
+  {
+    "scenario": "pushing_block",
+    "forces": [
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 50,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 200,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 240,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          230,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "pushing_block_00.png"
+  },
+  {
+    "scenario": "pushing_block",
+    "forces": [
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 50,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 200,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "pushing_block_01.png"
+  },
+  {
+    "scenario": "pushing_block",
+    "forces": [
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 50,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 200,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 240,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          230,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "pushing_block_02.png"
+  },
+  {
+    "scenario": "pushing_block",
+    "forces": [
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 50,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 200,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 240,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          230,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "pushing_block_03.png"
+  },
+  {
+    "scenario": "pushing_block",
+    "forces": [
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 50,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 200,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "pushing_block_04.png"
+  },
+  {
+    "scenario": "pushing_block",
+    "forces": [
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 50,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 200,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 240,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          230,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "pushing_block_05.png"
+  },
+  {
+    "scenario": "pushing_block",
+    "forces": [
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 50,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 200,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "pushing_block_06.png"
+  },
+  {
+    "scenario": "pushing_block",
+    "forces": [
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 50,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 200,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 240,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          230,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "pushing_block_07.png"
+  },
+  {
+    "scenario": "pushing_block",
+    "forces": [
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 50,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 200,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "pushing_block_08.png"
+  },
+  {
+    "scenario": "pushing_block",
+    "forces": [
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 50,
+        "direction": 0,
+        "label": "F_applied",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 200,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 240,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 220,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "F_applied",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          230,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          210,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "pushing_block_09.png"
+  },
+  {
+    "scenario": "car_on_road",
+    "forces": [
+      {
+        "x": 250,
+        "y": 320,
+        "magnitude": 60,
+        "direction": 0,
+        "label": "F_engine",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 290,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_front",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 310,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_rear",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 320,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          310,
+          20,
+          20
+        ],
+        "label": "F_engine",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          280,
+          290,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          330,
+          20,
+          20
+        ],
+        "label": "N_front",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          300,
+          330,
+          20,
+          20
+        ],
+        "label": "N_rear",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          310,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "car_on_road_00.png"
+  },
+  {
+    "scenario": "car_on_road",
+    "forces": [
+      {
+        "x": 250,
+        "y": 320,
+        "magnitude": 60,
+        "direction": 0,
+        "label": "F_engine",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 290,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_front",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 310,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_rear",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 320,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          310,
+          20,
+          20
+        ],
+        "label": "F_engine",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          280,
+          290,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          330,
+          20,
+          20
+        ],
+        "label": "N_front",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          300,
+          330,
+          20,
+          20
+        ],
+        "label": "N_rear",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          310,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "car_on_road_01.png"
+  },
+  {
+    "scenario": "car_on_road",
+    "forces": [
+      {
+        "x": 250,
+        "y": 320,
+        "magnitude": 60,
+        "direction": 0,
+        "label": "F_engine",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 290,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_front",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 310,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_rear",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 320,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          310,
+          20,
+          20
+        ],
+        "label": "F_engine",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          280,
+          290,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          330,
+          20,
+          20
+        ],
+        "label": "N_front",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          300,
+          330,
+          20,
+          20
+        ],
+        "label": "N_rear",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          310,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "car_on_road_02.png"
+  },
+  {
+    "scenario": "car_on_road",
+    "forces": [
+      {
+        "x": 250,
+        "y": 320,
+        "magnitude": 60,
+        "direction": 0,
+        "label": "F_engine",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 290,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          310,
+          20,
+          20
+        ],
+        "label": "F_engine",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          280,
+          290,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "car_on_road_03.png"
+  },
+  {
+    "scenario": "car_on_road",
+    "forces": [
+      {
+        "x": 250,
+        "y": 320,
+        "magnitude": 60,
+        "direction": 0,
+        "label": "F_engine",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 290,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_front",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 310,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_rear",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 320,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          310,
+          20,
+          20
+        ],
+        "label": "F_engine",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          280,
+          290,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          330,
+          20,
+          20
+        ],
+        "label": "N_front",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          300,
+          330,
+          20,
+          20
+        ],
+        "label": "N_rear",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          310,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "car_on_road_04.png"
+  },
+  {
+    "scenario": "car_on_road",
+    "forces": [
+      {
+        "x": 250,
+        "y": 320,
+        "magnitude": 60,
+        "direction": 0,
+        "label": "F_engine",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 290,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_front",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 310,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_rear",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 320,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          310,
+          20,
+          20
+        ],
+        "label": "F_engine",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          280,
+          290,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          330,
+          20,
+          20
+        ],
+        "label": "N_front",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          300,
+          330,
+          20,
+          20
+        ],
+        "label": "N_rear",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          310,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "car_on_road_05.png"
+  },
+  {
+    "scenario": "car_on_road",
+    "forces": [
+      {
+        "x": 250,
+        "y": 320,
+        "magnitude": 60,
+        "direction": 0,
+        "label": "F_engine",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 290,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_front",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 310,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_rear",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 320,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          310,
+          20,
+          20
+        ],
+        "label": "F_engine",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          280,
+          290,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          330,
+          20,
+          20
+        ],
+        "label": "N_front",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          300,
+          330,
+          20,
+          20
+        ],
+        "label": "N_rear",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          310,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "car_on_road_06.png"
+  },
+  {
+    "scenario": "car_on_road",
+    "forces": [
+      {
+        "x": 250,
+        "y": 320,
+        "magnitude": 60,
+        "direction": 0,
+        "label": "F_engine",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 290,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_front",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 310,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_rear",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 320,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          310,
+          20,
+          20
+        ],
+        "label": "F_engine",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          280,
+          290,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          330,
+          20,
+          20
+        ],
+        "label": "N_front",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          300,
+          330,
+          20,
+          20
+        ],
+        "label": "N_rear",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          310,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "car_on_road_07.png"
+  },
+  {
+    "scenario": "car_on_road",
+    "forces": [
+      {
+        "x": 250,
+        "y": 320,
+        "magnitude": 60,
+        "direction": 0,
+        "label": "F_engine",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 290,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          310,
+          20,
+          20
+        ],
+        "label": "F_engine",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          280,
+          290,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "car_on_road_08.png"
+  },
+  {
+    "scenario": "car_on_road",
+    "forces": [
+      {
+        "x": 250,
+        "y": 320,
+        "magnitude": 60,
+        "direction": 0,
+        "label": "F_engine",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 290,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_front",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 310,
+        "y": 340,
+        "magnitude": 25,
+        "direction": 90,
+        "label": "N_rear",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 330,
+        "y": 320,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          310,
+          20,
+          20
+        ],
+        "label": "F_engine",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          280,
+          290,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          330,
+          20,
+          20
+        ],
+        "label": "N_front",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          300,
+          330,
+          20,
+          20
+        ],
+        "label": "N_rear",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          320,
+          310,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "car_on_road_09.png"
+  },
+  {
+    "scenario": "pendulum",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "pendulum_00.png"
+  },
+  {
+    "scenario": "pendulum",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "pendulum_01.png"
+  },
+  {
+    "scenario": "pendulum",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "pendulum_02.png"
+  },
+  {
+    "scenario": "pendulum",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "pendulum_03.png"
+  },
+  {
+    "scenario": "pendulum",
+    "forces": [
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "pendulum_04.png"
+  },
+  {
+    "scenario": "pendulum",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "pendulum_05.png"
+  },
+  {
+    "scenario": "pendulum",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "pendulum_06.png"
+  },
+  {
+    "scenario": "pendulum",
+    "forces": [
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "pendulum_07.png"
+  },
+  {
+    "scenario": "pendulum",
+    "forces": [
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "pendulum_08.png"
+  },
+  {
+    "scenario": "pendulum",
+    "forces": [
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "pendulum_09.png"
+  },
+  {
+    "scenario": "block_on_table",
+    "forces": [
+      {
+        "x": 270,
+        "y": 220,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          210,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "block_on_table_00.png"
+  },
+  {
+    "scenario": "block_on_table",
+    "forces": [
+      {
+        "x": 270,
+        "y": 220,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          210,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "block_on_table_01.png"
+  },
+  {
+    "scenario": "block_on_table",
+    "forces": [
+      {
+        "x": 270,
+        "y": 220,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          210,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          240,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "block_on_table_02.png"
+  },
+  {
+    "scenario": "block_on_table",
+    "forces": [
+      {
+        "x": 270,
+        "y": 220,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          210,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          240,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "block_on_table_03.png"
+  },
+  {
+    "scenario": "block_on_table",
+    "forces": [
+      {
+        "x": 270,
+        "y": 220,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          210,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "block_on_table_04.png"
+  },
+  {
+    "scenario": "block_on_table",
+    "forces": [
+      {
+        "x": 270,
+        "y": 220,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          210,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "block_on_table_05.png"
+  },
+  {
+    "scenario": "block_on_table",
+    "forces": [
+      {
+        "x": 270,
+        "y": 220,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          210,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          240,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "block_on_table_06.png"
+  },
+  {
+    "scenario": "block_on_table",
+    "forces": [
+      {
+        "x": 270,
+        "y": 220,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          210,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          240,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "block_on_table_07.png"
+  },
+  {
+    "scenario": "block_on_table",
+    "forces": [
+      {
+        "x": 270,
+        "y": 220,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          210,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          240,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "block_on_table_08.png"
+  },
+  {
+    "scenario": "block_on_table",
+    "forces": [
+      {
+        "x": 270,
+        "y": 220,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          210,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          240,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "block_on_table_09.png"
+  },
+  {
+    "scenario": "sliding_block",
+    "forces": [
+      {
+        "x": 325,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 325,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          240,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          270,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "sliding_block_00.png"
+  },
+  {
+    "scenario": "sliding_block",
+    "forces": [
+      {
+        "x": 325,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 325,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          240,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          270,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "sliding_block_01.png"
+  },
+  {
+    "scenario": "sliding_block",
+    "forces": [
+      {
+        "x": 325,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          240,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "sliding_block_02.png"
+  },
+  {
+    "scenario": "sliding_block",
+    "forces": [
+      {
+        "x": 325,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          240,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "sliding_block_03.png"
+  },
+  {
+    "scenario": "sliding_block",
+    "forces": [
+      {
+        "x": 325,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 325,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          240,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          270,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "sliding_block_04.png"
+  },
+  {
+    "scenario": "sliding_block",
+    "forces": [
+      {
+        "x": 325,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 325,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          240,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          270,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "sliding_block_05.png"
+  },
+  {
+    "scenario": "sliding_block",
+    "forces": [
+      {
+        "x": 325,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 325,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          240,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          270,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "sliding_block_06.png"
+  },
+  {
+    "scenario": "sliding_block",
+    "forces": [
+      {
+        "x": 325,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 325,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          240,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          270,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "sliding_block_07.png"
+  },
+  {
+    "scenario": "sliding_block",
+    "forces": [
+      {
+        "x": 325,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 325,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          240,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          270,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "sliding_block_08.png"
+  },
+  {
+    "scenario": "sliding_block",
+    "forces": [
+      {
+        "x": 325,
+        "y": 250,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 325,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 90,
+        "label": "N",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 265,
+        "magnitude": 30,
+        "direction": 180,
+        "label": "f",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          240,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          315,
+          270,
+          20,
+          20
+        ],
+        "label": "N",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          255,
+          20,
+          20
+        ],
+        "label": "f",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "sliding_block_09.png"
+  },
+  {
+    "scenario": "elevator",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 200,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "elevator_00.png"
+  },
+  {
+    "scenario": "elevator",
+    "forces": [
+      {
+        "x": 300,
+        "y": 200,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "elevator_01.png"
+  },
+  {
+    "scenario": "elevator",
+    "forces": [
+      {
+        "x": 300,
+        "y": 200,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "elevator_02.png"
+  },
+  {
+    "scenario": "elevator",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 200,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "elevator_03.png"
+  },
+  {
+    "scenario": "elevator",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 200,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "elevator_04.png"
+  },
+  {
+    "scenario": "elevator",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 200,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "elevator_05.png"
+  },
+  {
+    "scenario": "elevator",
+    "forces": [
+      {
+        "x": 300,
+        "y": 200,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "elevator_06.png"
+  },
+  {
+    "scenario": "elevator",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 200,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "elevator_07.png"
+  },
+  {
+    "scenario": "elevator",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 200,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "elevator_08.png"
+  },
+  {
+    "scenario": "elevator",
+    "forces": [
+      {
+        "x": 300,
+        "y": 300,
+        "magnitude": 50,
+        "direction": 90,
+        "label": "T",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 300,
+        "y": 200,
+        "magnitude": 50,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          290,
+          20,
+          20
+        ],
+        "label": "T",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          190,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "elevator_09.png"
+  },
+  {
+    "scenario": "projectile",
+    "forces": [
+      {
+        "x": 300,
+        "y": 292,
+        "magnitude": 30,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 308,
+        "y": 300,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          282,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          298,
+          290,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "projectile_00.png"
+  },
+  {
+    "scenario": "projectile",
+    "forces": [
+      {
+        "x": 300,
+        "y": 292,
+        "magnitude": 30,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 308,
+        "y": 300,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          282,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          298,
+          290,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "projectile_01.png"
+  },
+  {
+    "scenario": "projectile",
+    "forces": [
+      {
+        "x": 300,
+        "y": 292,
+        "magnitude": 30,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 308,
+        "y": 300,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          282,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          298,
+          290,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "projectile_02.png"
+  },
+  {
+    "scenario": "projectile",
+    "forces": [
+      {
+        "x": 300,
+        "y": 292,
+        "magnitude": 30,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 308,
+        "y": 300,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          282,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          298,
+          290,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "projectile_03.png"
+  },
+  {
+    "scenario": "projectile",
+    "forces": [
+      {
+        "x": 300,
+        "y": 292,
+        "magnitude": 30,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 308,
+        "y": 300,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          282,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          298,
+          290,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "projectile_04.png"
+  },
+  {
+    "scenario": "projectile",
+    "forces": [
+      {
+        "x": 300,
+        "y": 292,
+        "magnitude": 30,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          282,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "projectile_05.png"
+  },
+  {
+    "scenario": "projectile",
+    "forces": [
+      {
+        "x": 300,
+        "y": 292,
+        "magnitude": 30,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          282,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "projectile_06.png"
+  },
+  {
+    "scenario": "projectile",
+    "forces": [
+      {
+        "x": 300,
+        "y": 292,
+        "magnitude": 30,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 308,
+        "y": 300,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          282,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          298,
+          290,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "projectile_07.png"
+  },
+  {
+    "scenario": "projectile",
+    "forces": [
+      {
+        "x": 300,
+        "y": 292,
+        "magnitude": 30,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 308,
+        "y": 300,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          282,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          298,
+          290,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "projectile_08.png"
+  },
+  {
+    "scenario": "projectile",
+    "forces": [
+      {
+        "x": 300,
+        "y": 292,
+        "magnitude": 30,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 308,
+        "y": 300,
+        "magnitude": 20,
+        "direction": 180,
+        "label": "F_air",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          290,
+          282,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          298,
+          290,
+          20,
+          20
+        ],
+        "label": "F_air",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "projectile_09.png"
+  },
+  {
+    "scenario": "spring_mass",
+    "forces": [
+      {
+        "x": 270,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          270,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force"
+    ],
+    "image_path": "spring_mass_00.png"
+  },
+  {
+    "scenario": "spring_mass",
+    "forces": [
+      {
+        "x": 270,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          270,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "missing_force",
+      "wrong_direction"
+    ],
+    "image_path": "spring_mass_01.png"
+  },
+  {
+    "scenario": "spring_mass",
+    "forces": [
+      {
+        "x": 250,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 180,
+        "label": "F_spring",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          290,
+          20,
+          20
+        ],
+        "label": "F_spring",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          270,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [],
+    "image_path": "spring_mass_02.png"
+  },
+  {
+    "scenario": "spring_mass",
+    "forces": [
+      {
+        "x": 250,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 180,
+        "label": "F_spring",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          290,
+          20,
+          20
+        ],
+        "label": "F_spring",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          270,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "spring_mass_03.png"
+  },
+  {
+    "scenario": "spring_mass",
+    "forces": [
+      {
+        "x": 250,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 180,
+        "label": "F_spring",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          290,
+          20,
+          20
+        ],
+        "label": "F_spring",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          270,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "spring_mass_04.png"
+  },
+  {
+    "scenario": "spring_mass",
+    "forces": [
+      {
+        "x": 250,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 180,
+        "label": "F_spring",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          290,
+          20,
+          20
+        ],
+        "label": "F_spring",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          270,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "spring_mass_05.png"
+  },
+  {
+    "scenario": "spring_mass",
+    "forces": [
+      {
+        "x": 250,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 180,
+        "label": "F_spring",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          290,
+          20,
+          20
+        ],
+        "label": "F_spring",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          270,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "spring_mass_06.png"
+  },
+  {
+    "scenario": "spring_mass",
+    "forces": [
+      {
+        "x": 250,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 180,
+        "label": "F_spring",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          290,
+          20,
+          20
+        ],
+        "label": "F_spring",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          270,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "wrong_direction"
+    ],
+    "image_path": "spring_mass_07.png"
+  },
+  {
+    "scenario": "spring_mass",
+    "forces": [
+      {
+        "x": 250,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 180,
+        "label": "F_spring",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          290,
+          20,
+          20
+        ],
+        "label": "F_spring",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          270,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force",
+      "wrong_direction"
+    ],
+    "image_path": "spring_mass_08.png"
+  },
+  {
+    "scenario": "spring_mass",
+    "forces": [
+      {
+        "x": 250,
+        "y": 300,
+        "magnitude": 40,
+        "direction": 180,
+        "label": "F_spring",
+        "color": "red",
+        "error_type": null
+      },
+      {
+        "x": 270,
+        "y": 280,
+        "magnitude": 40,
+        "direction": 270,
+        "label": "mg",
+        "color": "red",
+        "error_type": null
+      }
+    ],
+    "annotations": [
+      {
+        "type": "force",
+        "bbox": [
+          240,
+          290,
+          20,
+          20
+        ],
+        "label": "F_spring",
+        "error_type": null
+      },
+      {
+        "type": "force",
+        "bbox": [
+          260,
+          270,
+          20,
+          20
+        ],
+        "label": "mg",
+        "error_type": null
+      }
+    ],
+    "error_types": [
+      "extra_force"
+    ],
+    "image_path": "spring_mass_09.png"
+  }
+]
